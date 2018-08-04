@@ -1,7 +1,6 @@
 import random
 print('What is Your Name?')
 name = input()
-secret_number = random.randint(1,100)
 print('Hello,' + name + ' I\'m thinking a number between 1 and 100')
 guesses = []
 
